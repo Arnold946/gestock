@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+.env
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Base de données locale
+db.sqlite3
+
+# Dossiers statiques générés
+staticfiles/
+media/
